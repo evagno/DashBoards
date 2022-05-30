@@ -1,0 +1,22 @@
+Media = Soma(array[....])/Count(array[....])
+Mediana = 
+Quantil = 
+Amplitude = 
+Desvio Padrão = 
+Desvio Absoluto = 
+
+Passos:
+Sort(array[....])
+Median(array[....])
+Q1=Quantile(array[....],0.25)
+Q3=Quantile(array[....],0.75)
+
+Amplitude = Q3 - Q1
+
+LimiteMaximo = Q3 + 1.5 * Amplitute
+LimiteMinimo = Q1 - 1.5 * Amplitute
+Limites Internos = LimiteMinimo - LimiteMaximo
+
+LimiteMaximo = Q3 + 3 * Amplitute
+LimiteMinimo = Q1 - 3 * Amplitute
+Limites Externos = LimiteMinimo - LimiteMaximo

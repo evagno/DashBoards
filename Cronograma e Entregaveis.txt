@@ -1,0 +1,9 @@
+Dashboard fluxo de Cancelamento (completo)
+
+Dashboard fluxo de Baixa (em desenvolvimento - 25/05)
+
+Dashboard fluxo  de Cancelamento 7 Dias (aguardando - 08/06)
+
+Dashboard de Desfiliação em Massa (aguardando - 15/06)
+
+Dashboard de Eventos (Alertas) (aguardando - 22/06
